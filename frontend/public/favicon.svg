@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Red Clinical Cross at Top Left -->
+  <path d="M 6,26 H 14 V 18 H 19 V 26 H 27 V 31 H 19 V 39 H 14 V 31 H 6 Z" fill="#e53935" />
+  
+  <!-- Tree Trunk & Branches (Brown) -->
+  <path d="M 48,75 C 49,70 49,62 48,54 C 44,46 39,41 36,38 C 39,41 42,47 48,50 C 49,42 47,35 41,31 C 46,35 49,41 50,47 C 51,41 54,35 59,31 C 53,35 51,42 52,50 C 58,47 61,41 64,38 C 61,41 56,46 52,54 C 51,62 51,70 52,75 Z" fill="#795548" />
+  
+  <!-- Roots at the Bottom (Brown) -->
+  <path d="M 48,75 C 44,77 40,79 36,81 C 40,79 44,77 47,76 C 45,77 42,79 40,82 C 43,80 46,78 48,77 C 47,79 46,81 45,84 C 48,81 49,79 50,77 C 51,79 52,81 55,84 C 54,81 53,79 52,77 C 54,78 57,80 60,82 C 58,79 55,77 53,76 C 56,77 60,79 64,81 C 60,79 56,77 52,75 Z" fill="#795548" />
+
+  <!-- Left Lobe Leaves -->
+  <ellipse cx="32" cy="15" rx="4" ry="2.5" fill="#4CAF50" transform="rotate(-30, 32, 15)" />
+  <ellipse cx="28" cy="18" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-45, 28, 18)" />
+  <ellipse cx="24" cy="22" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-60, 24, 22)" />
+  <ellipse cx="22" cy="27" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-70, 22, 27)" />
+  <ellipse cx="20" cy="33" rx="4" ry="2.5" fill="#4CAF50" transform="rotate(-75, 20, 33)" />
+  <ellipse cx="22" cy="39" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-60, 22, 39)" />
+  <ellipse cx="25" cy="44" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-45, 25, 44)" />
+  <ellipse cx="29" cy="48" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-30, 29, 48)" />
+  
+  <!-- Right Lobe Leaves -->
+  <ellipse cx="68" cy="15" rx="4" ry="2.5" fill="#4CAF50" transform="rotate(30, 68, 15)" />
+  <ellipse cx="72" cy="18" rx="4.8" ry="3" fill="#87cd38" transform="rotate(45, 72, 18)" />
+  <ellipse cx="76" cy="22" rx="4" ry="2.5" fill="#87cd38" transform="rotate(60, 76, 22)" />
+  <ellipse cx="78" cy="27" rx="4.8" ry="3" fill="#87cd38" transform="rotate(70, 78, 27)" />
+  <ellipse cx="80" cy="33" rx="4" ry="2.5" fill="#4CAF50" transform="rotate(75, 80, 33)" />
+  <ellipse cx="78" cy="39" rx="4.8" ry="3" fill="#87cd38" transform="rotate(60, 78, 39)" />
+  <ellipse cx="75" cy="44" rx="4" ry="2.5" fill="#87cd38" transform="rotate(45, 75, 44)" />
+  <ellipse cx="71" cy="48" rx="4.8" ry="3" fill="#87cd38" transform="rotate(30, 71, 48)" />
+
+  <!-- Valley Leaves -->
+  <ellipse cx="50" cy="25" rx="4" ry="2.5" fill="#4CAF50" transform="rotate(0, 50, 25)" />
+  <ellipse cx="45" cy="22" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-15, 45, 22)" />
+  <ellipse cx="55" cy="22" rx="4.8" ry="3" fill="#87cd38" transform="rotate(15, 55, 22)" />
+  <ellipse cx="40" cy="18" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-20, 40, 18)" />
+  <ellipse cx="60" cy="18" rx="4" ry="2.5" fill="#87cd38" transform="rotate(20, 60, 18)" />
+
+  <!-- Roots Area Leaves -->
+  <ellipse cx="33" cy="53" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-30, 33, 53)" />
+  <ellipse cx="36" cy="58" rx="4.8" ry="3" fill="#4CAF50" transform="rotate(-20, 36, 58)" />
+  <ellipse cx="38" cy="63" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-10, 38, 63)" />
+  <ellipse cx="40" cy="68" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-5, 40, 68)" />
+  <ellipse cx="42" cy="72" rx="3.2" ry="2" fill="#87cd38" transform="rotate(5, 42, 72)" />
+  <ellipse cx="67" cy="53" rx="4" ry="2.5" fill="#87cd38" transform="rotate(30, 67, 53)" />
+  <ellipse cx="64" cy="58" rx="4.8" ry="3" fill="#4CAF50" transform="rotate(20, 64, 58)" />
+  <ellipse cx="62" cy="63" rx="4" ry="2.5" fill="#87cd38" transform="rotate(10, 62, 63)" />
+  <ellipse cx="60" cy="68" rx="4.8" ry="3" fill="#87cd38" transform="rotate(5, 60, 68)" />
+  <ellipse cx="58" cy="72" rx="3.2" ry="2" fill="#87cd38" transform="rotate(-5, 58, 72)" />
+
+  <!-- Inner Foliage Left -->
+  <ellipse cx="30" cy="28" rx="3.2" ry="2" fill="#87cd38" transform="rotate(-50, 30, 28)" />
+  <ellipse cx="35" cy="25" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-25, 35, 25)" />
+  <ellipse cx="40" cy="28" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-10, 40, 28)" />
+  <ellipse cx="34" cy="34" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-40, 34, 34)" />
+  <ellipse cx="38" cy="38" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-20, 38, 38)" />
+  <ellipse cx="33" cy="42" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-50, 33, 42)" />
+  <ellipse cx="42" cy="44" rx="3.2" ry="2" fill="#87cd38" transform="rotate(-15, 42, 44)" />
+  <ellipse cx="37" cy="48" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-35, 37, 48)" />
+  <ellipse cx="41" cy="52" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-20, 41, 52)" />
+
+  <!-- Inner Foliage Right -->
+  <ellipse cx="70" cy="28" rx="3.2" ry="2" fill="#87cd38" transform="rotate(50, 70, 28)" />
+  <ellipse cx="65" cy="25" rx="4.8" ry="3" fill="#87cd38" transform="rotate(25, 65, 25)" />
+  <ellipse cx="60" cy="28" rx="4" ry="2.5" fill="#87cd38" transform="rotate(10, 60, 28)" />
+  <ellipse cx="66" cy="34" rx="4.8" ry="3" fill="#87cd38" transform="rotate(40, 66, 34)" />
+  <ellipse cx="62" cy="38" rx="4" ry="2.5" fill="#87cd38" transform="rotate(20, 62, 38)" />
+  <ellipse cx="67" cy="42" rx="4.8" ry="3" fill="#87cd38" transform="rotate(50, 67, 42)" />
+  <ellipse cx="58" cy="44" rx="3.2" ry="2" fill="#87cd38" transform="rotate(15, 58, 44)" />
+  <ellipse cx="63" cy="48" rx="4.8" ry="2.5" fill="#87cd38" transform="rotate(35, 63, 48)" />
+  <ellipse cx="59" cy="52" rx="4.8" ry="3" fill="#87cd38" transform="rotate(20, 59, 52)" />
+
+  <!-- Upper Center foliage -->
+  <ellipse cx="46" cy="30" rx="3.2" ry="2" fill="#87cd38" transform="rotate(-10, 46, 30)" />
+  <ellipse cx="54" cy="30" rx="3.2" ry="2" fill="#87cd38" transform="rotate(10, 54, 30)" />
+  <ellipse cx="50" cy="33" rx="4.8" ry="3" fill="#87cd38" transform="rotate(0, 50, 33)" />
+  <ellipse cx="45" cy="36" rx="4" ry="2.5" fill="#87cd38" transform="rotate(-15, 45, 36)" />
+  <ellipse cx="55" cy="36" rx="4" ry="2.5" fill="#87cd38" transform="rotate(15, 55, 36)" />
+  <ellipse cx="49" cy="40" rx="4.8" ry="3" fill="#87cd38" transform="rotate(-5, 49, 40)" />
+  <ellipse cx="46" cy="45" rx="3.2" ry="2" fill="#87cd38" transform="rotate(-10, 46, 45)" />
+  <ellipse cx="54" cy="45" rx="3.2" ry="2" fill="#87cd38" transform="rotate(10, 54, 45)" />
+  <ellipse cx="50" cy="48" rx="4.8" ry="3" fill="#87cd38" transform="rotate(0, 50, 48)" />
+</svg>

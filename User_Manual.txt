@@ -1,0 +1,30 @@
+PROJECT: DRNEEMZ DENTAL CLINIC WEBSITE
+
+WHAT IS THIS WEBSITE?
+This is a complete platform for DrNeemz Dental Clinic. 
+- Patients can book dental appointments and choose their preferred time.
+- Doctors & Clinic Staff (Admins) can track appointments, patient records, and payments.
+
+--------------------------------------------------
+
+PART 1: FOR PATIENTS (How to Book an Appointment)
+
+Step 1: Open the website link.
+Step 2: Click on the "Book Appointment" button.
+Step 3: Choose Date & Time on the calendar.
+Step 4: Fill your Details (Name, Email, Phone Number, Treatment needed).
+Step 5: Submit the form to Confirm your Booking!
+
+--------------------------------------------------
+
+PART 2: FOR ADMINS / DOCTORS (How to Manage)
+
+Step 1: Go to the Admin login page.
+Step 2: Login with your Admin Username and Password.
+Step 3: Dashboard: See today's appointments and clinic stats.
+Step 4: Appointments Tab: See who is coming, Approve, Reschedule, or Cancel bookings.
+Step 5: Patients Tab: See past treatments and patient contact details.
+Step 6: Invoices / Payments Tab: Track which patients have paid.
+
+--------------------------------------------------
+If you need any technical help, please contact the developer.
