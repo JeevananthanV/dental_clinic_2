@@ -1,53 +1,102 @@
-# Dental Clinic Management System
+# Dental Clinic Management System — Edition 2
 
-## Project Overview
-This project is a comprehensive Dental Clinic Management System consisting of a React/Vite frontend and a Node.js/Express backend. 
+[![Repository](https://img.shields.io/badge/GitHub-JeevananthanV%2Fdental__clinic__2-blue?logo=github)](https://github.com/JeevananthanV/dental_clinic_2)
+[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?logo=react&logoColor=white)](https://react.dev)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Database](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-## Features
-- Patient Management
-- Appointment Scheduling
-- Secure Admin Dashboard
+A comprehensive Dental Clinic Management System featuring patient records, real-time appointment scheduling, and a secure administration command center.
 
-## Technologies Used
-- **Frontend**: React, Vite
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
+---
 
-## Prerequisites
-- Node.js installed
-- MongoDB running locally or remotely
+## 🔗 Repository Links
 
-## Installation and Setup
+| Detail | Link |
+|---|---|
+| **GitHub Repository** | [https://github.com/JeevananthanV/dental_clinic_2](https://github.com/JeevananthanV/dental_clinic_2) |
+| **Author** | [Jeevananthan V](https://github.com/JeevananthanV) |
+| **Frontend Dev Server** | `http://localhost:5173` |
+| **Backend API** | `http://localhost:5000` |
 
-### 1. Clone the repository and navigate into the directory
-### 2. Setup Backend
+---
+
+## ✨ Features
+
+- **Patient Management**: Full demographic records, medical history, and contact logging.
+- **Appointment Scheduling**: Real-time slot management, status tracking, and doctor allocations.
+- **Secure Admin Dashboard**: Role-based access control, analytics charts, and operational tools.
+
+---
+
+## 📁 Repository Structure
+
+```
+Dental_Clinic_2/
+├── backend/                  # Node.js + Express API
+│   ├── config/               # Database connection
+│   ├── controllers/          # Business logic handlers
+│   ├── models/               # MongoDB Mongoose schemas
+│   ├── routes/               # Express REST endpoints
+│   └── server.js             # API entry point
+│
+├── frontend/                 # React + Vite application
+│   ├── src/                  # React components, pages, and hooks
+│   ├── package.json
+│   └── vite.config.js
+│
+├── Case_Study.md             # In-depth clinical case study
+├── Project_Report.md         # Architecture & engineering report
+└── User_Manual.md            # Operator and patient instruction guide
+```
+
+---
+
+## 🚀 Installation and Setup
+
+### Clone Repository
+
+```bash
+git clone https://github.com/JeevananthanV/dental_clinic_2.git
+cd dental_clinic_2
+```
+
+### 1. Setup Backend
+
 ```bash
 cd backend
 npm install
 ```
-- Create a `.env` file in the `backend` directory based on `.env.example`:
-  ```env
-  PORT=5000
-  MONGODB_URI=your_mongodb_connection_string
-  JWT_SECRET=your_jwt_secret
-  ADMIN_USERNAME=your_admin_username
-  ADMIN_PASSWORD=your_admin_password
-  ```
-- Run the backend server:
-```bash
-npm run dev
-# or node server.js
+
+Create a `.env` file in `backend/`:
+```env
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+ADMIN_USERNAME=your_admin_username
+ADMIN_PASSWORD=your_admin_password
 ```
 
-### 3. Setup Frontend
+Start the backend:
 ```bash
-cd frontend
+npm run dev
+```
+
+### 2. Setup Frontend
+
+```bash
+cd ../frontend
 npm install
-```
-- Run the frontend development server:
-```bash
 npm run dev
 ```
 
-## Additional Documentation
-Refer to `Case_Study.md`, `Project_Report.md`, and `User_Manual.md` for more details about the design, architecture, and manual operations of the project.
+The frontend will run on `http://localhost:5173`.
+
+---
+
+## 👨‍💻 Author
+
+**Jeevananthan V** — [@JeevananthanV](https://github.com/JeevananthanV)
+
+## License
+
+MIT
